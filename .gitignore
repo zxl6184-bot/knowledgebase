@@ -1,0 +1,31 @@
+# Obsidian 缓存和配置文件
+.obsidian/workspace
+.obsidian/workspaces
+.obsidian/graph
+.obsidian/plugins
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/starred.json
+.obsidian/hotkeys.json
+.obsidian/ribbon.json
+.obsidian/command-palette.json
+
+# Obsidian 本地配置
+.obsidian/local/*
+!.obsidian/local/.gitkeep
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Icon
+
+# 临时文件
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+
+# 可选：如果你使用 Obsidian Sync 插件，忽略它的数据
+# .obsidian/sync/
